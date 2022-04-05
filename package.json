@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "@types/node": "^17.0.23"
-  }
+  },
+  "name": "javascript",
+  "version": "16.14.2",
+  "description": "First node app",
+  "main": "files.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzeiger/nodejs-codemy.git"
+  },
+  "author": "Mark Zeiger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mzeiger/nodejs-codemy/issues"
+  },
+  "homepage": "https://github.com/mzeiger/nodejs-codemy#readme"
 }
