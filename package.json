@@ -8,6 +8,7 @@
   "main": "files.js",
   "devDependencies": {},
   "scripts": {
+    "start": "node files.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
